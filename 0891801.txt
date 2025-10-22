@@ -86,7 +86,6 @@ end)
 
 -- Waypoints (6 titik pakai CFrame.new)
 local waypoints = {
-return {
 	CFrame.new(-902, 168.999984741211, 891) * CFrame.Angles(-0, 0, 0),
 	CFrame.new(-902, 168.999984741211, 891) * CFrame.Angles(-0, 0, 0),
 	CFrame.new(-902, 168.999984741211, 891) * CFrame.Angles(-0, 0, 0),
